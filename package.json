@@ -1,0 +1,32 @@
+{
+  "name": "phishtank-scrape",
+  "version": "0.0.1",
+  "description": "Saving screenshots form PhishTank.com",
+  "main": "index.js",
+  "dependencies": {
+    "JSONStream": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deep-Security/PhishTank-Scrape.git"
+  },
+  "keywords": [
+    "phishtank",
+    "scrape"
+    "screenshots"
+  ],
+  "author": "Pixm <info@pixm.net> pixm.net",
+  "contributors": [
+    "Formula1 <samtobia@gmail.com> (https://github.com/formula1)",
+    "Mikeumus <mikeumus@gmail.com> (https://github.com/mikeumus)",
+  ]
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deep-Security/PhishTank-Scrape/issues"
+  },
+  "homepage": "https://github.com/Deep-Security/PhishTank-Scrape"
+}
