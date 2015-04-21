@@ -4,7 +4,8 @@
   "description": "Saving screenshots form PhishTank.com",
   "main": "index.js",
   "dependencies": {
-    "JSONStream": "^0.10.0"
+    "JSONStream": "^0.10.0",
+    "es6-promise": "^2.0.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,14 +17,14 @@
   },
   "keywords": [
     "phishtank",
-    "scrape"
+    "scrape",
     "screenshots"
   ],
   "author": "Pixm <info@pixm.net> pixm.net",
   "contributors": [
     "Formula1 <samtobia@gmail.com> (https://github.com/formula1)",
-    "Mikeumus <mikeumus@gmail.com> (https://github.com/mikeumus)",
-  ]
+    "Mikeumus <mikeumus@gmail.com> (https://github.com/mikeumus)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Deep-Security/PhishTank-Scrape/issues"
