@@ -5,7 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "JSONStream": "^0.10.0",
-    "es6-promise": "^2.0.1"
+    "async": "^1.4.2",
+    "es6-promise": "^2.0.1",
+    "nightmare": "^2.0.7",
+    "vo": "^1.0.3"
   },
   "devDependencies": {},
   "scripts": {
