@@ -5,10 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "JSONStream": "^0.10.0",
-    "async": "^1.4.2",
-    "es6-promise": "^2.0.1",
-    "nightmare": "^2.0.7",
-    "vo": "^1.0.3"
+    "limit-it": "^3.0.0",
+    "pageres": "^2.1.0"
   },
   "devDependencies": {},
   "scripts": {
