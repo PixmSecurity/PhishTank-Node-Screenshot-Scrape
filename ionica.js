@@ -31,7 +31,9 @@ var LimitIt = require("limit-it");
 
 // Constants
 const DESTINATION_DIR = "./images/screenshots/";
+//const TOPSITES = require("./json/alexa-topsites_art-illustration").results.collection1;
 const TOPSITES = require("./json/alexa-top1000_2013").results.collection1;
+
 const DOWNLOAD_DUPLICATE = false;
 
 process.on('uncaughtException', function(err) {
@@ -41,18 +43,30 @@ process.on('uncaughtException', function(err) {
 var limitter = new LimitIt(2);
 
 var _cache = {};
-function handleWebsite(/*isHttps,*/ _url, callback) {
-    var url = /*"http" + (isHttps ? "s" : "") + "://" + */ _url.toLowerCase();
+function handleWebsite(isHttps, _url, callback) {
+    var url = _url;
+    if (/^https?:\/\//.test(_url)) {
+        url = _url.toLowerCase();
+        _url = _url.replace(/^https?:\/\//, "");
+    } else {
+        url = "http" + (isHttps ? "s" : "") + "://" +  _url.toLowerCase();    
+    }
+    
     console.log("Downloading " + url);
     if (_cache[url] && !DOWNLOAD_DUPLICATE) {
         console.log(url + " already downloaded ");
         return callback(null);
     }
     _cache[url] = 0;
+    
     var pageres = new Pageres({delay: 2});
+    
+    var normalizedUrl = _url.replace(/\//, "_");
+    var fileName = DOWNLOAD_DUPLICATE ? normalizedUrl + " - " + new Date().getTime() : normalizedUrl;
+    
     pageres.src(url, ['1280x900'], {
         crop: true,
-        filename: DOWNLOAD_DUPLICATE ? _url + " - " + new Date().getTime() : undefined
+        filename: fileName
     });
     
     pageres.on('error', function (err) {
@@ -71,11 +85,11 @@ function handleWebsite(/*isHttps,*/ _url, callback) {
 }
 
 function download(url, callback) {
-    handleWebsite(/*false,*/ url, function(err) {
+    handleWebsite(false, url, function(err) {
         if (!err) {
             return callback(null); 
         } 
-        handleWebsite(/*true,*/ url, callback);
+        handleWebsite(true, url, callback);
     });
 }
 
@@ -87,13 +101,15 @@ function download(url, callback) {
 var count = TOPSITES.length
   , complete = 0
   ;
+  
  
 TOPSITES.forEach(function (c) {
-    limitter.add(download.bind(this, c.website), function (err) {
+    var websiteUrl = typeof c.website === "string" ? c.website : c.website.text;
+    limitter.add(download.bind(this, websiteUrl), function (err) {
         console.log("> " + (++complete) + "/" + count);
         if (err) {
-            return console.log("!! Url (" + c.website + ") FAILED: ", err);
+            return console.log("!! Url (" + websiteUrl + ") FAILED: ", err);
         }
-        console.log("* Downloaded " + c.website)
+        console.log("* Downloaded " + websiteUrl)
     });
 });
