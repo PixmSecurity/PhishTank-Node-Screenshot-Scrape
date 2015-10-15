@@ -1,0 +1,4388 @@
+{
+    "name": "Alexa TopSites Shopping",
+    "count": 625,
+    "frequency": "Manual Crawl",
+    "version": 1,
+    "newdata": true,
+    "lastrunstatus": "success",
+    "thisversionstatus": "success",
+    "thisversionrun": "Thu Oct 15 2015 04:25:36 GMT+0000 (UTC)",
+    "results": {
+        "collection1": [{
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/amazon.com",
+                "text": "Amazon.com"
+            },
+            "index": 1,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ebay.com",
+                "text": "Ebay.com"
+            },
+            "index": 2,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/netflix.com",
+                "text": "Netflix.com"
+            },
+            "index": 3,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/amazon.co.uk",
+                "text": "Amazon.co.uk"
+            },
+            "index": 4,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/walmart.com",
+                "text": "Walmart.com"
+            },
+            "index": 5,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.etsy.com/",
+                "text": "Https://www.etsy.com/"
+            },
+            "index": 6,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ikea.com",
+                "text": "Ikea.com"
+            },
+            "index": 7,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/target.com",
+                "text": "Target.com"
+            },
+            "index": 8,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bestbuy.com",
+                "text": "Bestbuy.com"
+            },
+            "index": 9,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/homedepot.com",
+                "text": "Homedepot.com"
+            },
+            "index": 10,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.groupon.com/",
+                "text": "Https://www.groupon.com/"
+            },
+            "index": 11,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/store.steampowered.com",
+                "text": "Store.steampowered.com"
+            },
+            "index": 12,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/macys.com",
+                "text": "Macys.com"
+            },
+            "index": 13,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/kohls.com",
+                "text": "Kohls.com"
+            },
+            "index": 14,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/newegg.com",
+                "text": "Newegg.com"
+            },
+            "index": 15,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gap.com",
+                "text": "Gap.com"
+            },
+            "index": 16,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/lowes.com",
+                "text": "Lowes.com"
+            },
+            "index": 17,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/hm.com",
+                "text": "Hm.com"
+            },
+            "index": 18,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/nordstrom.com",
+                "text": "Nordstrom.com"
+            },
+            "index": 19,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/6pm.com",
+                "text": "6pm.com"
+            },
+            "index": 20,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/costco.com",
+                "text": "Costco.com"
+            },
+            "index": 21,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/nike.com",
+                "text": "Nike.com"
+            },
+            "index": 22,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overstock.com",
+                "text": "Overstock.com"
+            },
+            "index": 23,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/staples.com",
+                "text": "Staples.com"
+            },
+            "index": 24,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sears.com",
+                "text": "Sears.com"
+            },
+            "index": 25,
+            "url": "http://www.alexa.com/topsites/category/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 26,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 27,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 28,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 29,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 30,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 31,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 32,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 33,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 34,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 35,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 36,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 37,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 38,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 39,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 40,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 41,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 42,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 43,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 44,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 45,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 46,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 47,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 48,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 49,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 50,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 51,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 52,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 53,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 54,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 55,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 56,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 57,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 58,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 59,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 60,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 61,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 62,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 63,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 64,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 65,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 66,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 67,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 68,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 69,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 70,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 71,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 72,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 73,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 74,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 75,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 76,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 77,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 78,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 79,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 80,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 81,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 82,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 83,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 84,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 85,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 86,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 87,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 88,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 89,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 90,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 91,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 92,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 93,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 94,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 95,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 96,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 97,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 98,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 99,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 100,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 101,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 102,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 103,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 104,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 105,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 106,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 107,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 108,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 109,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 110,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 111,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 112,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 113,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 114,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 115,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 116,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 117,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 118,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 119,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 120,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 121,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 122,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 123,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 124,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 125,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 126,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 127,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 128,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 129,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 130,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 131,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 132,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 133,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 134,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 135,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 136,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 137,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 138,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 139,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 140,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 141,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 142,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 143,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 144,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 145,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 146,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 147,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 148,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 149,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 150,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 151,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 152,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 153,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 154,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 155,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 156,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 157,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 158,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 159,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 160,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 161,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 162,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 163,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 164,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 165,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 166,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 167,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 168,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 169,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 170,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 171,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 172,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 173,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 174,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 175,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 176,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 177,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 178,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 179,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 180,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 181,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 182,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 183,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 184,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 185,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 186,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 187,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 188,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 189,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 190,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 191,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 192,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 193,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 194,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 195,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 196,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 197,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 198,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 199,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 200,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 201,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 202,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 203,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 204,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 205,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 206,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 207,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 208,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 209,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 210,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 211,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 212,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 213,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 214,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 215,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 216,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 217,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 218,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 219,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 220,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 221,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 222,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 223,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 224,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 225,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 226,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 227,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 228,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 229,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 230,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 231,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 232,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 233,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 234,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 235,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 236,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 237,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 238,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 239,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 240,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 241,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 242,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 243,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 244,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 245,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 246,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 247,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 248,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 249,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 250,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 251,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 252,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 253,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 254,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 255,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 256,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 257,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 258,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 259,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 260,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 261,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 262,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 263,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 264,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 265,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 266,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 267,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 268,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 269,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 270,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 271,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 272,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 273,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 274,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 275,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 276,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 277,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 278,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 279,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 280,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 281,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 282,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 283,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 284,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 285,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 286,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 287,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 288,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 289,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 290,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 291,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 292,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 293,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 294,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 295,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 296,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 297,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 298,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 299,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 300,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 301,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 302,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 303,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 304,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 305,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 306,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 307,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 308,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 309,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 310,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 311,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 312,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 313,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 314,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 315,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 316,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 317,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 318,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 319,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 320,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 321,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 322,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 323,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 324,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 325,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 326,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 327,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 328,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 329,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 330,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 331,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 332,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 333,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 334,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 335,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 336,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 337,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 338,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 339,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 340,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 341,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 342,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 343,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 344,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 345,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 346,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 347,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 348,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 349,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 350,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 351,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 352,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 353,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 354,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 355,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 356,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 357,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 358,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 359,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 360,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 361,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 362,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 363,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 364,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 365,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 366,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 367,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 368,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 369,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 370,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 371,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 372,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 373,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 374,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 375,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 376,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 377,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 378,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 379,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 380,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 381,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 382,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 383,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 384,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 385,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 386,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 387,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 388,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 389,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 390,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 391,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 392,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 393,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 394,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 395,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 396,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 397,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 398,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 399,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 400,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 401,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 402,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 403,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 404,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 405,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 406,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 407,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 408,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 409,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 410,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 411,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 412,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 413,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 414,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 415,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 416,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 417,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 418,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 419,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 420,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 421,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 422,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 423,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 424,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 425,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 426,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 427,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 428,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 429,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 430,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 431,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 432,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 433,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 434,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 435,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 436,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 437,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 438,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 439,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 440,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 441,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 442,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 443,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 444,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 445,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 446,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 447,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 448,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 449,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 450,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 451,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 452,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 453,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 454,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 455,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 456,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 457,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 458,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 459,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 460,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 461,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 462,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 463,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 464,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 465,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 466,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 467,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 468,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 469,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 470,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 471,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 472,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 473,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 474,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 475,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 476,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 477,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 478,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 479,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 480,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 481,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 482,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 483,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 484,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 485,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 486,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 487,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 488,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 489,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 490,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 491,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 492,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 493,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 494,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 495,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 496,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 497,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 498,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 499,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 500,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 501,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 502,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 503,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 504,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 505,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 506,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 507,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 508,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 509,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 510,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 511,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 512,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 513,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 514,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 515,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 516,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 517,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 518,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 519,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 520,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 521,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 522,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 523,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 524,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 525,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 526,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 527,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 528,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 529,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 530,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 531,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 532,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 533,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 534,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 535,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 536,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 537,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 538,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 539,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 540,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 541,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 542,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 543,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 544,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 545,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 546,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 547,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 548,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 549,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 550,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 551,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 552,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 553,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 554,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 555,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 556,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 557,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 558,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 559,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 560,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 561,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 562,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 563,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 564,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 565,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 566,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 567,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 568,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 569,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 570,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 571,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 572,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 573,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 574,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 575,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/https://www.soylent.com/",
+                "text": "Https://www.soylent.com/"
+            },
+            "index": 576,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/proxibid.com",
+                "text": "Proxibid.com"
+            },
+            "index": 577,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/spencersonline.com",
+                "text": "Spencersonline.com"
+            },
+            "index": 578,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/forzieri.com",
+                "text": "Forzieri.com"
+            },
+            "index": 579,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/striderite.com",
+                "text": "Striderite.com"
+            },
+            "index": 580,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/speckproducts.com",
+                "text": "Speckproducts.com"
+            },
+            "index": 581,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/janes.com",
+                "text": "Janes.com"
+            },
+            "index": 582,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bradfordexchange.com",
+                "text": "Bradfordexchange.com"
+            },
+            "index": 583,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/4wheelparts.com",
+                "text": "4wheelparts.com"
+            },
+            "index": 584,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/pyramydair.com",
+                "text": "Pyramydair.com"
+            },
+            "index": 585,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/recycler.com",
+                "text": "Recycler.com"
+            },
+            "index": 586,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cooking.com",
+                "text": "Cooking.com"
+            },
+            "index": 587,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magazines.com",
+                "text": "Magazines.com"
+            },
+            "index": 588,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/1999.co.jp/eng/",
+                "text": "1999.co.jp/eng/"
+            },
+            "index": 589,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/simplicity.com",
+                "text": "Simplicity.com"
+            },
+            "index": 590,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/car.com",
+                "text": "Car.com"
+            },
+            "index": 591,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/theatermania.com",
+                "text": "Theatermania.com"
+            },
+            "index": 592,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bellacor.com",
+                "text": "Bellacor.com"
+            },
+            "index": 593,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/usfreeads.com",
+                "text": "Usfreeads.com"
+            },
+            "index": 594,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horchow.com",
+                "text": "Horchow.com"
+            },
+            "index": 595,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/planetshoes.com",
+                "text": "Planetshoes.com"
+            },
+            "index": 596,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/ysl.com",
+                "text": "Ysl.com"
+            },
+            "index": 597,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/horizonhobby.com",
+                "text": "Horizonhobby.com"
+            },
+            "index": 598,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/symbios.pk",
+                "text": "Symbios.pk"
+            },
+            "index": 599,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/quadratec.com",
+                "text": "Quadratec.com"
+            },
+            "index": 600,
+            "url": "http://www.alexa.com/topsites/category;19/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/overnightprints.com",
+                "text": "Overnightprints.com"
+            },
+            "index": 601,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gifts.com",
+                "text": "Gifts.com"
+            },
+            "index": 602,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/bebe.com",
+                "text": "Bebe.com"
+            },
+            "index": 603,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/magiccardmarket.eu",
+                "text": "Magiccardmarket.eu"
+            },
+            "index": 604,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/jdwilliams.co.uk",
+                "text": "Jdwilliams.co.uk"
+            },
+            "index": 605,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/gojane.com",
+                "text": "Gojane.com"
+            },
+            "index": 606,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cigarsinternational.com",
+                "text": "Cigarsinternational.com"
+            },
+            "index": 607,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/beallsflorida.com",
+                "text": "Beallsflorida.com"
+            },
+            "index": 608,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/miniaturemarket.com",
+                "text": "Miniaturemarket.com"
+            },
+            "index": 609,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/cirquedusoleil.com",
+                "text": "Cirquedusoleil.com"
+            },
+            "index": 610,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/mountainroseherbs.com",
+                "text": "Mountainroseherbs.com"
+            },
+            "index": 611,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/wickedweasel.com",
+                "text": "Wickedweasel.com"
+            },
+            "index": 612,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/the-house.com",
+                "text": "The-house.com"
+            },
+            "index": 613,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/sundancecatalog.com",
+                "text": "Sundancecatalog.com"
+            },
+            "index": 614,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/urbandecay.com",
+                "text": "Urbandecay.com"
+            },
+            "index": 615,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/powells.com",
+                "text": "Powells.com"
+            },
+            "index": 616,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/glyde.com",
+                "text": "Glyde.com"
+            },
+            "index": 617,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/fredericks.com",
+                "text": "Fredericks.com"
+            },
+            "index": 618,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/dwr.com",
+                "text": "Dwr.com"
+            },
+            "index": 619,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/signaturehardware.com",
+                "text": "Signaturehardware.com"
+            },
+            "index": 620,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/prestoclassical.co.uk",
+                "text": "Prestoclassical.co.uk"
+            },
+            "index": 621,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/whsmith.co.uk",
+                "text": "Whsmith.co.uk"
+            },
+            "index": 622,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/claires.com",
+                "text": "Claires.com"
+            },
+            "index": 623,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/booksamillion.com",
+                "text": "Booksamillion.com"
+            },
+            "index": 624,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }, {
+            "website": {
+                "href": "http://www.alexa.com/siteinfo/biblio.com",
+                "text": "Biblio.com"
+            },
+            "index": 625,
+            "url": "http://www.alexa.com/topsites/category;18/Top/Shopping"
+        }]
+    }
+}

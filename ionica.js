@@ -32,7 +32,7 @@ var LimitIt = require("limit-it");
 // Constants
 const DESTINATION_DIR = "./images/screenshots/";
 //const TOPSITES = require("./json/alexa-topsites_art-illustration").results.collection1;
-const TOPSITES = require("./json/alexa-top1000_2013").results.collection1;
+const TOPSITES = require("./json/alexa-topsites_shopping-visual-arts").results.collection1;
 
 const DOWNLOAD_DUPLICATE = false;
 
